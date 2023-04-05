@@ -1,3 +1,4 @@
-from .calculator import Calculator
+from .BruzaiteCalculator import BruzaiteCalculator
 
-__version__ = 0.01
+__version__ = 1.2
+
