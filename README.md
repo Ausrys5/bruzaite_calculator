@@ -21,15 +21,6 @@ Take (n) root of a number.
 Reset memory (Calculator must have its own memory, meaning it should manipulate its starting number 0 until it is reset.).
 This means that, for example, calculator should perform actions with a value inside its memory (for this example, the value inside the calculator's memory is 0): calculator.add(2) results in 2.
 
-# Requirements
-The main package file should contain a class Calculator that should be able to perform these actions:
-
-Addition / Subtraction.
-Multiplication / Division.
-Take (n) root of a number.
-Reset memory (Calculator must have its own memory, meaning it should manipulate its starting number 0 until it is reset.).
-This means that, for example, calculator should perform actions with a value inside its memory (for this example, the value inside the calculator's memory is 0): calculator.add(2) results in 2.
-
 # Recommended modules
 Python 3.x
 
